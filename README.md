@@ -1,2 +1,2 @@
 # hello-world
-just
+##this repository contains script for sequnces filtering by their names
